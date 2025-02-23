@@ -1,6 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
+  "proxy": "chat-app25-8bfb129s8-vijay-patels-projects-04193105.vercel.app",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.3",
